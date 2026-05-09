@@ -6,6 +6,9 @@ CatCare Tracker is a fullstack cat health and care tracking application. This ba
 
 The system allows users to track vaccines, vet visits, medications, and view common cat behaviour problems with possible causes and suggested solutions.
 
+Frontend Repo: https://github.com/HareezAhnuar/catcare-frontend
+Video Presentation: https://drive.google.com/file/d/1y5BhCocRlkDyEyLJX_NSA52zq1hkciWu/view?usp=sharing
+
 ## Features Implemented
 
 - Create, read, update, and delete cat profiles
